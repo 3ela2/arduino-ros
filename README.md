@@ -1,2 +1,2 @@
-![Lol sends his greets](image.jpeg)
+![Lol sends his greets](image.jpg)
 
